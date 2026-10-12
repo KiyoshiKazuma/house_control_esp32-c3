@@ -1,0 +1,7 @@
+{
+  "name": "DebugLog",
+  "version": "1.0.0",
+  "description": "Print-compatible debug log with compile-time output selection (USB serial / Telnet / none)",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
